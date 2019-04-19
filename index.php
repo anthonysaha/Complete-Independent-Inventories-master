@@ -182,7 +182,12 @@ include_once('assets/partials/header.php');
                     <i class="icon-bullseye"></i>
                     </span>
                     <h4>Interim Inspections</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>Property inspections are carried out on request at properties, for
+                       landlords & agents
+                       a report will be sent to the agent or landlord with findings & photos
+                       & maintenance
+                       issues recommended.
+                    </p>
                 </div>
             </div>
         </div>
