@@ -134,7 +134,13 @@ include_once('assets/partials/header.php');
                     <i class="icon-file-text"></i>
                     </span>
                     <h4>Inventories</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>This is a professional up to date detailed inventory report of the
+                       condition of the furnishings, fixtures &
+                       fixings of the property, including, walls, woodwork, flooring, carpets,
+                       glazing, lights & fittings, bathroom
+                       & kitchens, radiators, gardens & sheds & outbuildings. photos are
+                       attached to the inventory report.
+                   </p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
