@@ -46,7 +46,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="widget about-us">
-                    <span class="footer-brand">Complete<span>Independent Inventories.</span></span>
+                    <span class="footer-brand">Complete<span>Independent Inventories LTD.</span></span>
                     <p>Lorem ipsum dolor sit amet, no consequat ullamcorper nec, te commune constituto intellegebat eam. Soleat populo id nec. Est in altera vocibus, et vim iudico adolescens, mel no discere mediocritatem. Nec ei sale honestatis, graeco melius eruditi qui et, id nam mucius maiorum. Pri diceret ornatus cu, dico quas aliquando vix ea, vix impetus invidunt honestatis id. An his everti animal.</p>
                 </div>
                 <!-- /.about-us -->
