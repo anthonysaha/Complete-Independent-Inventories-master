@@ -150,7 +150,13 @@ include_once('assets/partials/header.php');
                     <i class="icon-foursquare"></i>
                     </span>
                     <h4>Tenant Check In</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>A check in compares the original inventory against the contents &
+                       condition on the day the tenancy
+                       starts at check in, we will produce a detailed check in report including the condition of cleaning
+                       & meters & keys & photos, tenants will agree the check in & sign
+                       the check in summary report.
+                       photos will be attached.
+                    </p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
