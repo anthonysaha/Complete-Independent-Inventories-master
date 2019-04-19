@@ -166,7 +166,13 @@ include_once('assets/partials/header.php');
                     <i class="icon-long-arrow-right"></i>
                     </span>
                     <h4>Check Out Report</h4>
-                    <p>Donec in velit vel ipsum auctor pulvinar. Vesti bulum iaculis lacinia est. Proin dictum elementum velit. Fusce euismod auctor pulvinar.</p>
+                    <p>At the end of tenancy a full check out report will be completed &
+                       both the original inventory & check in
+                       will be used together, meter readings will be take & keys collected   
+                       & returned back to the agent, 
+                       a full check out report will be compiled including any recommended
+                       costs to the ten                
+                    </p>
                 </div>
             </div>
             <!-- /.col-sm-6 -->
