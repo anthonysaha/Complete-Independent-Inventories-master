@@ -35,7 +35,7 @@
                         <div class="col-xs-10 col-sm-8 header-info-wrapper">
                             <ul class="list-inline">
                                 <li><i class="icon-mobile-phone"></i> (07) 951 894 098</li>
-                                <li><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventoriesLTD@live.co.uk</a></li>
+                                <li><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a></li>
                             </ul>
                             <!-- /.list-inline -->
                         </div>
