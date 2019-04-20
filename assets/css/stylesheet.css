@@ -2295,6 +2295,12 @@ address {
     outline: 2px solid #4a2663;
 }
 
+/*facebook icon*/
+
+.social-links .icon-facebook {
+    text-decoration: none;
+}
+
 
 /* Overrides */
 .footer-brand > span {
