@@ -2381,5 +2381,13 @@ address {
     .social-links {
         margin-top: -2px;
     }
+
 }
 
+@media(max-width: 768px) {
+
+.section {
+    padding: 1px;
+    margin-top: 10px;
+         }
+        }
