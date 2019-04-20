@@ -2313,6 +2313,7 @@ address {
 }
 .icon-mobile-phone:before {
     transform: scale(1.3);
+    margin-right: 10px;
 }
 #footer-1 > div > div > div:nth-child(3) > div {
     overflow: visible;
