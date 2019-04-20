@@ -16,13 +16,13 @@ include_once('assets/partials/header.php')
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="assets/img/carousel/photo (3).jpg" class="img-responsive" alt="Carousel Image">
+                        <img src="assets/img/carousel/photo swap (3).jpg" class="img-responsive" alt="Carousel Image">
                     </div>
                     <div class="item">
-                        <img src="assets/img/carousel/photo (2).jpg" class="img-responsive" alt="Carousel Image">
+                        <img src="assets/img/carousel/photo swap (2).jpg" class="img-responsive" alt="Carousel Image">
                     </div>
                     <div class="item">
-                        <img src="assets/img/carousel/photo (1).jpg" class="img-responsive" alt="Carousel Image">
+                        <img src="assets/img/carousel/photo swap (1).jpg" class="img-responsive" alt="Carousel Image">
                     </div>
                 </div>
                 <!-- Controls -->
