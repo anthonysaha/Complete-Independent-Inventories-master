@@ -1,5 +1,6 @@
 <?php
-include_once('assets/partials/header.php')
+$page = 'services';
+include_once('assets/partials/header.php');
 ?>
 <!-- /#page-title-wrapper -->
 <section id="short-intro" class="section colored-wrapper">

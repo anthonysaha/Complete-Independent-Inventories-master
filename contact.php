@@ -1,5 +1,6 @@
 <?php
-include_once('assets/partials/header.php')
+$page = 'contact';
+include_once('assets/partials/header.php');
 ?>
 <section id="google-map" class="section google-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40040.94874080501!2d0.8362617116033941!3d51.153477521987796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dec322dc36f387%3A0x280d4f34618ec61e!2sAshford!5e0!3m2!1sen!2suk!4v1539111795875" width="100%" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>

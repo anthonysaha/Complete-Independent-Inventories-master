@@ -1,4 +1,5 @@
 <?php
+$page = 'index';
 include_once('assets/partials/header.php');
 ?>
 <!-- /#header-2 -->

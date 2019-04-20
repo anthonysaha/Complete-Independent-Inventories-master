@@ -69,13 +69,9 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse navbar-ex1-collapse">
                             <ul class="nav navbar-nav">
-                                <li class="active"><a href="index.php">Home</a></li> 
-                                <li>
-                                    <a href="services.php">Services</a>
-                                </li>
-                                <li>
-                                    <a href="contact.php">Contact</a>
-                                </li>
+                                <li class="<?php if($page=='index'){echo 'active';} ?>"><a href="index.php">Home</a></li> 
+                                <li class="<?php if($page=='services'){echo 'active';} ?>"><a href="services.php">services</a></li>
+                                <li class="<?php if($page=='contact'){echo 'active';} ?>"><a href="contact.php">contact</a></li>
                             </ul>
                             <!-- /.nav -->
                         </div>
