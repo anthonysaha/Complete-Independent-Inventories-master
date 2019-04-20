@@ -47,7 +47,7 @@
             <div class="col-md-6">
                 <div class="widget about-us">
                     <span class="footer-brand">Complete<span>Independent Inventories LTD.</span></span>
-                    <p>We are a professional independent inventory company with 15 years experience within the industry sector,
+                    <p class="white-text">We are a professional independent inventory company with 15 years experience within the industry sector,
                        and over 30 years within the letting industry, we work closely with several local companies & private landlords
                     & cover all local work within a 30 mile radius including central london.    </p>
                 </div>
