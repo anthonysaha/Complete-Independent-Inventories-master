@@ -967,6 +967,10 @@ textarea {
     color: #4a2663;
 }
 
+#footer-1 .footer-brand .white-text { 
+    color: #fff;
+}
+
 /* Footer 2
  * -------------------------- */
 #footer-2 {
