@@ -34,7 +34,7 @@
                     <div class="row">
                         <div class="col-xs-10 col-sm-8 header-info-wrapper">
                             <ul class="list-inline">
-                                <li><i class="icon-mobile-phone"></i> (07) 951 894 098</li>
+                                <li><i class="icon-mobile-phone"></i> <a href="tel:07951 894 098">Call (07) 951 894 098</a></li>
                                 <li><i class="icon-envelope"></i> <a href="mailto:completeinventories@live.co.uk">completeinventories@live.co.uk</a></li>
                             </ul>
                             <!-- /.list-inline -->
