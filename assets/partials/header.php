@@ -21,6 +21,8 @@
         <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <!-- Google Fonts -->    
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic|Montserrat:400,700' rel='stylesheet' type='text/css'>
+        <!-- Google recaptcha API library -->
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>
         <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
         <script src="assets/js/html5shiv.js"></script>
