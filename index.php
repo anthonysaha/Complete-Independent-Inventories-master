@@ -129,7 +129,7 @@ include_once('assets/partials/header.php');
 <section id="our-services" class="section colored-wrapper">
     <div class="container">
         <div class="row">
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-file-text"></i>
@@ -145,7 +145,7 @@ include_once('assets/partials/header.php');
                 </div>
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-foursquare"></i>
@@ -161,7 +161,7 @@ include_once('assets/partials/header.php');
                 </div>
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-long-arrow-right"></i>
@@ -177,7 +177,7 @@ include_once('assets/partials/header.php');
                 </div>
             </div>
             <!-- /.col-sm-6 -->
-            <div class="col-xs-12 col-sm-6 wrapper-1">
+            <div class="col-xs-12 col-md-6 wrapper-1">
                 <div class="service service-4">
                     <span class="service-icon">
                     <i class="icon-bullseye"></i>

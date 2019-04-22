@@ -17,13 +17,13 @@ include_once('assets/partials/header.php');
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <img src="assets/img/carousel/photo swap (3).jpg" class="img-responsive" alt="Carousel Image">
+                        <img src="assets/img/carousel/property-1.jpg" class="img-responsive" alt="Carousel Image">
                     </div>
                     <div class="item">
-                        <img src="assets/img/carousel/photo swap (2).jpg" class="img-responsive" alt="Carousel Image">
+                        <img src="assets/img/carousel/property-2.jpg" class="img-responsive" alt="Carousel Image">
                     </div>
                     <div class="item">
-                        <img src="assets/img/carousel/photo swap (1).jpg" class="img-responsive" alt="Carousel Image">
+                        <img src="assets/img/carousel/property-3.jpg" class="img-responsive" alt="Carousel Image">
                     </div>
                 </div>
                 <!-- Controls -->
@@ -37,7 +37,7 @@ include_once('assets/partials/header.php');
         </div>
         <div class="col-md-6 wrapper-1">
             <h5 class="subpage-title">Services</h5>
-            <p>Cloakrooms, utiliy rooms, conservatories, garages, sheds, studies, etc, will incur an additional charge at check in/out of £10.00 per room unfurnished, and £15.00 furnished.Cloakrooms, utiliy rooms, conservatories, garages, sheds, studies, etc,will incur an additional charge at check in/out of £10.00 per room unfurnished, and £15.00 furnished. Sheds, studies, etc,will incur an additional charge at the ona check in/out of £10.00 per room unfurnished, and £15.00 furnished. utiliy rooms, conservatories, garages, sheds, studies.</p>
+            <p style="font-size: 14px; color: #4a2663">Cloakrooms, utiliy rooms, conservatories, garages, sheds, studies, etc, will incur an additional charge at check in/out of £10.00 per room unfurnished, and £15.00 furnished.Cloakrooms, utiliy rooms, conservatories, garages, sheds, studies, etc,will incur an additional charge at check in/out of £10.00 per room unfurnished, and £15.00 furnished. Sheds, studies, etc,will incur an additional charge at the ona check in/out of £10.00 per room unfurnished, and £15.00 furnished. utiliy rooms, conservatories, garages, sheds, studies.</p>
         </div>
     </div>
 </div>
