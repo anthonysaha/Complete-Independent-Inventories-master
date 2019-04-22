@@ -98,13 +98,14 @@ include_once('assets/partials/header.php');
             <h5 class="subpage-title">
                 <span>What Cleint's Say</span>
                 <!-- Controls -->
-                <a href="#carousel-example-generic" id="testimonials-next" class="next black" data-slide="next"><i class="icon-angle-right"></i></a>
-                <a href="#carousel-example-generic" id="testimonials-prev" class="prev black" data-slide="prev"><i class="icon-angle-left"></i></a>
+                <div class="carousel-inner">
+                    <div class="item active">
+                
             </h5>
-            <div id="caroufredsel-testimonials-container">
-                <div class="testimonial">
                     <div class="testimonial-content">
-                        <p>In est unum referrentur, pro at soluta epicurei, mei ea expetendis adipiscing delicatissimi. Rebum mucius inciderint ei quo. His autem philosophia te, pri cu deserunt convenire.</p>
+                        <p>In est unum referrentur, pro at soluta epicurei, mei ea expetendis adipiscing delicatissimi.
+                             Rebum mucius inciderint ei quo. His autem philosophia te, pri cu deserunt convenire.
+                        </p>
                     </div>
                     <div class="testimonial-author">
                         <img src="assets/img/users/photo (1).jpg" alt="User Image">
@@ -112,6 +113,8 @@ include_once('assets/partials/header.php');
                         <span class="user-info">Web Designer At MYCOMPANYY</span>
                     </div>
                 </div>
+                <a href="#carousel-example-generic" id="testimonials-next" class="next black" data-slide="next"><i class="icon-angle-right"></i></a>
+                <a href="#carousel-example-generic" id="testimonials-prev" class="prev black" data-slide="prev"><i class="icon-angle-left"></i></a>
                 <div class="testimonial">
                     <div class="testimonial-content">
                         <p>In est unum referrentur, pro at soluta epicurei, mei ea expetendis adipiscing delicatissimi. Rebum mucius inciderint ei quo. His autem philosophia te, pri cu deserunt convenire.</p>
