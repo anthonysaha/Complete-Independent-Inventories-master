@@ -66,7 +66,9 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="index.php">Complete<span> Independent Inventories<span class="ltd">LTD</span></span></a>
+                            <a class="navbar-brand" href="index.php">
+                                <img src="assets/img/logo/complete-logo-white.png" class="img-responsive" alt="">
+                            </a>
                         </div>
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse navbar-ex1-collapse">

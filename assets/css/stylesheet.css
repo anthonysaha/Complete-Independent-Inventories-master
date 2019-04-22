@@ -2435,3 +2435,22 @@ address {
 #bannercontainer .btn {
 	display: none;
 }
+
+@media(max-width:991px){
+     a.navbar-brand {
+        max-width: 400px;
+     }
+}
+
+
+@media(max-width:462px){
+    a.navbar-brand {
+       max-width: ;
+    }
+}
+
+@media(max-width:330px){
+    a.navbar-brand {
+       max-width: 250px;
+    }
+}
