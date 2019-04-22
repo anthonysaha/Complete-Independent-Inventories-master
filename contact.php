@@ -10,17 +10,12 @@ include_once('assets/partials/header.php');
 <div class="container">
 <div class="row">
     <div class="col-md-4 wrapper-2">
-        <h5 class="subpage-title"><i class="icon-compass"></i> Visit Us</h5>
-        <address>
-            <strong>FLATPOINT, INC.</strong><br>
-            795 Folsom Ave, Suite 600<br>
-            San Francisco, CA 94107<br>
-        </address>
+        
         <h5 class="subpage-title"><i class="icon-phone"></i> Contact</h5>
         <address>
-            Phone: (123) 456-7890<br>
-            Fax: (123) 456-7890<br>
-            <a href="mailto:#">contact@example.com</a>
+        Phone:(07) 951 894 098<br>
+            
+            <a href="mailto:#">completeinventories@live.co.uk</a>
         </address>
     </div>
     <div class="col-md-8 wrapper-1">
