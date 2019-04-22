@@ -64,7 +64,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="index.php">Complete<span> Independent Inventories LTD</span></a>
+                            <a class="navbar-brand" href="index.php">Complete<span> Independent Inventories<span class="ltd">LTD</span></span></a>
                         </div>
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse navbar-ex1-collapse">

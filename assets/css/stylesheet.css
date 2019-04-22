@@ -2393,3 +2393,14 @@ address {
     margin-top: 10px;
          }
         }
+
+
+.ltd{
+            font-size: 10px;
+            display: inline-block;
+            margin-top: -20px;
+            -webkit-transform: translateY(-10px);
+                -ms-transform: translateY(-10px);
+                    transform: translateY(-10px);
+            margin-left: 6px;
+        }
