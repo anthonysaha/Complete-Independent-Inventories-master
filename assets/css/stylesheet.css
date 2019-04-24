@@ -2349,11 +2349,6 @@ address {
         font-size: 17px;
     }  
 
-    .navbar-default .navbar-brand {
-        margin-top: -10px;
-        font-size: 17px;
-    }
-
     .client-wrapper a {
         display: block;
         filter: grayscale(0%);
@@ -2365,24 +2360,6 @@ address {
 
     .social-links {
         margin-top: 8px;
-    }
-
-    #header-1 .list-inline {
-        font-size: 10px;
-    }
-
-}
-
-@media(max-width: 405px)    {
-
-    .navbar-default .navbar-brand {
-        margin-top: -10px;
-        font-size: 15px;
-    }
-
-
-    .social-links {
-        margin-top: -2px;
     }
 
 }
@@ -2453,14 +2430,31 @@ address {
 }
 @media(max-width:767px){
     a.navbar-brand {
-        transform: translateY(-12px);
+        transform: translateY(-7px);
+    }
+    .navbar-toggle {
+        margin-top: 24px;
+    }
+    #header-1 .list-inline {
+        font-size: 10px;
     }
 }
 
-@media(max-width:330px){
+@media(max-width:456px){
     a.navbar-brand {
-       max-width: 250px;
+        max-width: 300px;
+     }
+}
+
+@media(max-width:356px){
+    a.navbar-brand {
+        max-width: 271px;
     }
 }
 
+@media(min-width:484px){
 
+#our-services .service-icon {
+    margin-bottom: 48PX;
+    }
+}
