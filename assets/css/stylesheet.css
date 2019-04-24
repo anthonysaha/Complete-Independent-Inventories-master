@@ -2428,7 +2428,8 @@ address {
 
 @media(min-width:768px) and (max-width: 991px) {
 	#our-services {
-		margin-top: 80px !important;
+        margin-top: 80px !important;
+        
 	}
 }
 
@@ -2439,13 +2440,20 @@ address {
 @media(max-width:991px){
      a.navbar-brand {
         max-width: 400px;
+        transform: translateY(4px);
      }
 }
 
+@media(min-width:992px){
+       a.navbar-brand {
+        transform: translateY(2px);
 
-@media(max-width:462px){
+     }
+
+}
+@media(max-width:767px){
     a.navbar-brand {
-       max-width: ;
+        transform: translateY(-12px);
     }
 }
 
@@ -2454,3 +2462,5 @@ address {
        max-width: 250px;
     }
 }
+
+
